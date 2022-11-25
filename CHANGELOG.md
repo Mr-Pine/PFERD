@@ -30,6 +30,7 @@ ambiguous situations.
 
 ### Fixed
 - IPD crawler unnecessarily appending trailing slashes
+- Crawling of courses with the timeline view as the default tab
 
 ## 3.4.2 - 2022-10-26
 
